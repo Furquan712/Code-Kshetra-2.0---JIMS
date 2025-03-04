@@ -42,7 +42,7 @@ Welcome to the post-event report for **CodeKshetra 2.0**, an engaging coding and
 ## Highlights
 
 1. **Inauguration & Keynote:**  
-   - Inspiring opening by *[Founder of pathway]* on innovation, collaboration, and the power of community-driven development.
+   - Inspiring opening by *[Devrel Groq]* on innovation, collaboration, and the power of community-driven development.
 
 2. **Workshops & Tech Talks:**  
    - Sessions on cutting-edge topics like AI/ML, cybersecurity, and web development.  
@@ -61,13 +61,13 @@ Welcome to the post-event report for **CodeKshetra 2.0**, an engaging coding and
 ## Competition Results & Awards
 
 1. **Overall Winner (Team/Individual):**  
-   - *[Name of Winner]* for creating an innovative solution to *[Brief Description of the Project]*.
+   - *[pixel minds]* for creating an innovative solution to *[Safire is an AI-powered personal guardian that detects harassment in real time, blocks harmful messages, captures evidence, and simplifies reporting, ensuring safer online interactions while giving users full control over their protection.]*.
 
 2. **First Runner-Up:**  
-   - *[Name of Team/Individual]* recognized for outstanding performance and creativity.
+   - *[PartTimeHumans]* recognized for outstanding performance and creativity.
 
 3. **Special Mentions:**  
-   - *[Team/Project Names]* for unique problem-solving approaches and noteworthy execution.
+   - *[nullPointers]* for unique problem-solving approaches and noteworthy execution.
 
 **Prizes** included:
 - Cash rewards  
@@ -79,10 +79,10 @@ Welcome to the post-event report for **CodeKshetra 2.0**, an engaging coding and
 
 ## Participation & Engagement
 
-- **Registrations:** *[Total registrations]*  
-- **Active Participants:** *[Number of participants who attended]*  
-- **Mentors & Judges:** *[List or count of industry experts, professors, sponsors]*  
-- **Feedback Score:** *[X out of 5 or X% rating]*, applauding the event’s organization and interactive nature.
+- **Registrations:** *[14800]*  
+- **Active Participants:** *[456]*  
+- **Mentors & Judges:** *[50]*  
+- **Feedback Score:** *[4.6 out of 5]*, applauding the event’s organization and interactive nature.
 
 ---
 
@@ -141,7 +141,7 @@ A big thank you to:
 For additional information, queries, or partnership opportunities, reach out to:
 
 - **Website:** [CodeKshetra 2.0 Official Site](https://codekshetra2.geekroom.in/#/)  
-- **Email:** *[Organizer’s contact email]*  
-- **Social Media:** *[Add relevant social media handles]*
+- **Email:** *[community@geekroom.in]*  
+- **Social Media:** *[[Instagram](https://www.instagram.com/geekroom_jims/)]*
 
 > **Thank you for making CodeKshetra 2.0 a grand success!**  
